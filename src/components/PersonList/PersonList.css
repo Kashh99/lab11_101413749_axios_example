@@ -1,0 +1,49 @@
+.bg-light-blue {
+  background-color: #bde0fe;
+}
+
+.bg-primary {
+  background-color: #264653 !important;
+}
+
+.text-primary {
+  color: #264653 !important;
+}
+
+.text-secondary {
+  color: #2a9d8f !important;
+}
+
+.btn-primary-custom {
+  background-color: #f4a261;
+  color: #fefae0;
+}
+
+.card .col-md-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card .btn {
+  margin-top: 1rem;
+}
+
+.card-body {
+  background-color: #fefae0;
+}
+
+.card-title {
+  color: #264653;
+}
+
+
+.footer {
+  text-align: center;
+  margin-top: 2rem;
+  padding: 1rem;
+  border-top: 1px solid #264653;
+  color: #264653;
+  font-size: 0.9rem;
+}
